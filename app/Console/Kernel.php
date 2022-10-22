@@ -5,6 +5,9 @@ namespace App\Console;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 use skymeyer\Vatsimphp;
+use App\Console\Commands\AtcBookingsUpdate;
+use App\Console\Commands\EventsUpdate;
+use App\Console\Commands\VatsimDataUpdate;
 
 class Kernel extends ConsoleKernel
 {
