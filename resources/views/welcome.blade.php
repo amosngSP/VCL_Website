@@ -8,6 +8,7 @@
   <div class="col">
     <h4>Welcome to VCL vACC!</h4>
     <!--Events Carousel-->
+    @if ($events)
     <div class="bd-example">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators"> 
@@ -67,7 +68,7 @@
         </a>
       </div>
     </div>
-
+@endif
   </div>
   <div class="col-md-4 ms-auto">
     <div class="card">
