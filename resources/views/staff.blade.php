@@ -23,7 +23,7 @@
         <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL2.jpg')}}" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Duy Nguyen<br>ACCVCL2 - Deputy Director</h5>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p class="card-text">Duy is responsible for assisting with daily operations of VCLvACC. He likes surfing, hiking and playing games in his free time. Duy loves aviation. He is currently an Aerospace Engineering student and a flight instructor. Buy him Phở and he will give you a direct to your destination!</p>
           <a href="emailto:deputy.director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
       </div>
@@ -32,7 +32,7 @@
         <img class="card-img-top" width="286" src="{{asset('images/ACCVCL3.png')}}" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">An Truong<br>ACCVCL3 - Training Director</h5>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p class="card-text">I am just an AvGeek who loves to go to outer space. Been dreaming of flying since the age of 6. Now working as a Safety System Engineer at Airbus. <i><b>Quote:</b>"There are 3 types of people: the ones who can count, and the ones who cannot count."</i></p>
           <a href="emailto:training.director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
       </div>
