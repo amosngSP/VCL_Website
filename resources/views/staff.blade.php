@@ -32,7 +32,7 @@
         <img class="card-img-top" width="286" src="{{asset('images/ACCVCL3.png')}}" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">An Truong<br>ACCVCL3 - Training Director</h5>
-          <p class="card-text">I am just an AvGeek who loves to go to outer space. Been dreaming of flying since the age of 6. Now working as a Safety System Engineer at Airbus. <br> <i><b>Quote:</b>"There are 3 types of people: the ones who can count, and the ones who cannot count."</i></p>
+          <p class="card-text">I am just an AvGeek who loves to go to outer space. Been dreaming of flying since the age of 6. Now working as a Safety System Engineer at Airbus. <br> <i><b>Quote: </b>"There are 3 types of people: the ones who can count, and the ones who cannot count."</i></p>
           <a href="emailto:training.director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
       </div>
