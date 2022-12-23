@@ -54,7 +54,7 @@
         <div class="card-body">
           <h5 class="card-title">Duc Nguyen<br>ACCVCL7 - Assistant Operations Director</h5>
           <p class="card-text">Hello. I’m Duc from Hanoi. Just a 16 year-old boy and I love to fly and have a dream to become a pilot. I’m here to help our handsome ACCVCL 4. If you come to Hanoi, give me a call (I’ll bring you around, trust me)
-<i>PS: I have no girl friend… Let me know if u love me…….. (jk)</i>
+<br><i>PS: I have no girl friend… Let me know if u love me…….. (jk)</i>
 </p>
           <a href="emailto:assistant.operations@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
