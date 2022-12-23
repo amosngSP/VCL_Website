@@ -13,7 +13,7 @@
       <div class="col- card staff-card">
         <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL1.jpg')}}" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title">Vu Viet Phuong<br>ACCVCL1 - Director</h5>
+          <h5 class="card-title">Vu Viet Phuong<br>ACCVCL1 - Director/ACCVCL5 - Events Director</h5>
           <p class="card-text">A flight simulator enthusiasm with decade of experience on VATSIM <a href="https://www.youtube.com/user/avemaria85" target="_blank">(and also has his own flight simulator at home)</a>, Phuong Vu is responsible for all activities of VCLvACC and ensures both pilots and controllers have fun while connected on the network. Say Hello if you see him around!</p>
           <a href="emailto:director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
@@ -43,7 +43,7 @@
     <div class="col- card staff-card">
         <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL4.jfif')}}" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title">Amos Ng<br>ACCVCL4 - Operations Director</h5>
+          <h5 class="card-title">Amos Ng<br>ACCVCL4 - Operations Director/ACCVCL6 - Webmaster</h5>
           <p class="card-text">Hailing from Singapore, he likes to dabble his time in watching anime, reading manga, and keeping up to date with the latest news. He's currently serving his National Service, in the Air Force no less! In the vACC, he is responsible for keeping the sector file up to date, and also assists to develop the lovely website you are looking at now! Say hello if you see him on the network, he won't bite, probably...</p>
           <a href="emailto:operations.director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
