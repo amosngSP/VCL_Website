@@ -50,11 +50,13 @@
       </div>
 
       <div class="col- card staff-card">
-        <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL6.jpg')}}" alt="Card image cap">
+        <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL7.jpg')}}" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title">Nguyen Minh Hai<br>ACCVCL6 - Webmaster</h5>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a href="emailto:webmaster@vclvacc.net" class="btn btn-primary">E-mail</a>
+          <h5 class="card-title">Duc Nguyen<br>ACCVCL7 - Assistant Operations Director</h5>
+          <p class="card-text">Hello. I’m Duc from Hanoi. Just a 16 year-old boy and I love to fly and have a dream to become a pilot. I’m here to help our handsome ACCVCL 4. If you come to Hanoi, give me a call (I’ll bring you around, trust me)
+<i>PS: I have no girl friend… Let me know if u love me…….. (jk)</i>
+</p>
+          <a href="emailto:assistant.operations@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
       </div>
 
