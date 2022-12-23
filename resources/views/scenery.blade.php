@@ -27,7 +27,9 @@ Links
 <tbody><tr><td>VVTS</td>
 <td>MSFS</td>
 <td>Payware</td>
-<td><a href="https://secure.simmarket.com/dominicdesignteam-vvts-tan-son-nhat-international-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/dominicdesignteam-vvts-tan-son-nhat-international-airport-msfs.phtml</a></td>
+<td><p><a href="https://secure.simmarket.com/dominicdesignteam-vvts-tan-son-nhat-international-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/dominicdesignteam-vvts-tan-son-nhat-international-airport-msfs.phtml</a></p>
+<p>Enhancement Package: <a href="https://flightsim.to/file/44554/vvts-tan-son-nhat-intl-airport-enhancement-package" target="_blank">https://flightsim.to/file/44554/vvts-tan-son-nhat-intl-airport-enhancement-package</a></p>
+</td>
 </tr>
 <tr><td>VVTS</td>
 <td>XP11/12</td>
@@ -184,6 +186,12 @@ Links
 <td>Payware</td>
 <td><a href="https://secure.simmarket.com/mico-dragon-studio-phu-cat-airpot-fsx-p3d.phtml" target="_blank">https://secure.simmarket.com/mico-dragon-studio-phu-cat-airpot-fsx-p3d.phtml</a></td>
 </tr>
+<tr><td>VVCI</td>
+<td>MSFS</td>
+<td>Freeware</td>
+<td><a href="https://flightsim.to/file/42849/ct-bi-international-airport" target="_blank">https://flightsim.to/file/42849/ct-bi-international-airport</a></td>
+</tr>
+
 </tbody>
   </table>
   </div>
