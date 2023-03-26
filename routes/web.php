@@ -43,6 +43,13 @@ function (){
 }
 )->name('charts');
 
+Route::get('/joinus',
+function (){
+    return view('joinus');
+}
+)->name('joinus');
+           
+
 Route::get('/logo_pack',
 function (){
     return view('logo_pack');
