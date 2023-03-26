@@ -14,6 +14,7 @@
                             <div class="dropdown-menu dropdown-menu-right ">
                                 <a href="{{route('staff')}}" class="dropdown-item"><i class="dropdown-item-icon mdi mdi-account-supervisor"></i>Staff</a>
                                 <a href="{{route('roster')}}" class="dropdown-item"><i class="dropdown-item-icon mdi mdi-format-list-numbered"></i>ATC Roster</a>
+                                <a href="{{route('joinus')}}" class="dropdown-item"><i class="dropdown-item-icon mdi mdi-account-tie-hat"></i>Join Us</a>
                              </div>
                         </li>
                         <li class="nav-item dropdown">
