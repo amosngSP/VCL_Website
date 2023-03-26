@@ -44,7 +44,7 @@ Links
 <tr><td>VVNB</td>
 <td>MSFS</td>
 <td>Payware</td>
-<td><a href="https://secure.simmarket.com/dominicdesignteam-vvnb_noi-bai-international-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/dominicdesignteam-vvnb_noi-bai-international-airport-msfs.phtml</a></td>
+<td><p><a href="https://secure.simmarket.com/dominicdesignteam-vvnb_noi-bai-international-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/dominicdesignteam-vvnb_noi-bai-international-airport-msfs.phtml</a></p><p>Enhancement Package:<a href="https://flightsim.to/file/49704/noi-bai-international-airport-ground-base" target="_blank">https://flightsim.to/file/49704/noi-bai-international-airport-ground-base</a></p></td>
 </tr>
 <tr><td>VVNB</td>
 <td>FSX/P3D</td>
@@ -90,6 +90,11 @@ Links
 <td>MSFS</td>
 <td>Payware</td>
 <td><a href="https://secure.simmarket.com/dominicdesignteam-vvpq-phu-quoc-intl-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/dominicdesignteam-vvpq-phu-quoc-intl-airport-msfs.phtml</a></td>
+</tr>
+<tr><td>VVPQ</td>
+<td>XP11/12</td>
+<td>Freeware</td>
+<td><a href="https://drive.google.com/file/d/1XRa7sEeVeEHryyKojTNxjeHcFlXfMQGR/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1XRa7sEeVeEHryyKojTNxjeHcFlXfMQGR/view?usp=sharing</a></td>
 </tr>
 <tr><td>VVPB</td>
 <td>FSX/P3D</td>
