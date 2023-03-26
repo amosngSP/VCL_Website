@@ -21,4 +21,8 @@ class HomeController extends Controller
         $events = $vatsim_data->returnEvents();
         return view("welcome",compact('online_controllers','bookings','events'));
     }
+    public function joinus()
+    {
+        return view('joinus');   
+    }
 }
