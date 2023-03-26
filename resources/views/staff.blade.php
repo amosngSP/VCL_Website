@@ -61,7 +61,7 @@
       </div>
 
       <div class="col- card staff-card">
-        <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL6.jpg')}}" alt="Card image cap">
+        <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL8.jpg')}}" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Zhang Ruijie<br>ACCVCL6 - Events Director</h5>
           <p class="card-text">Woohoo
