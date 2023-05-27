@@ -15,25 +15,25 @@
   </tr>
 </thead>
 <tbody><tr><td>VVTS</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-01-AMDT/html/eAIP/AD-2.VVTS-en-GB.html#VVTS-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-01-AMDT/html/eAIP/AD-2.VVTS-en-GB.html#VVTS-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVTS-en-GB.html#VVTS-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVTS-en-GB.html#VVTS-AD-2.24</a></td>
 </tr>
 <tr><td>VVNB</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-01-AMDT/html/eAIP/AD-2.VVNB-en-GB.html#VVNB-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-01-AMDT/html/eAIP/AD-2.VVNB-en-GB.html#VVNB-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVNB-en-GB.html#VVNB-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVNB-en-GB.html#VVNB-AD-2.24</a></td>
 </tr>
 <tr><td>VVDN</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVDN-en-GB.html#VVDN-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVDN-en-GB.html#VVDN-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVDN-en-GB.html#VVDN-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVDN-en-GB.html#VVDN-AD-2.24</a></td>
 </tr>
 <tr><td>VVVD</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVVD-en-GB.html#VVVD-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVVD-en-GB.html#VVVD-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVVD-en-GB.html#VVVD-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVVD-en-GB.html#VVVD-AD-2.24</a></td>
 </tr>
 <tr><td>VVPQ</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVPQ-en-GB.html#VVPQ-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVPQ-en-GB.html#VVPQ-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVPQ-en-GB.html#VVPQ-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVPQ-en-GB.html#VVPQ-AD-2.24</a></td>
 </tr>
 <tr><td>VVPB</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVPB-en-GB.html#VVPB-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVPB-en-GB.html#VVPB-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVPB-en-GB.html#VVPB-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVPB-en-GB.html#VVPB-AD-2.24</a></td>
 </tr>
 <tr><td>VVCR</td>
-<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVCR-en-GB.html#VVCR-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2022-02-AMDT/html/eAIP/AD-2.VVCR-en-GB.html#VVCR-AD-2.24</a></td>
+<td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVCR-en-GB.html#VVCR-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-02-AMDT/html/eAIP/AD-2.VVCR-en-GB.html#VVCR-AD-2.24</a></td>
 </tr>
 <tr><td>All Cambodia (VD**) Airports</td>
 <td><a href="http://www.civilaviation.gov.kh/images/pdf/ANS/AIP_SUP_2021/AD.pdf" target="_blank">http://www.civilaviation.gov.kh/images/pdf/ANS/AIP_SUP_2021/AD.pdf</a></td>
