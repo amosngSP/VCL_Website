@@ -36,30 +36,15 @@ Links
 <td>Payware</td>
 <td><a href="https://secure.simmarket.com/aura-design-tan-son-nhat-international-airport-x-plane-11.phtml" target="_blank">https://secure.simmarket.com/aura-design-tan-son-nhat-international-airport-x-plane-11.phtml</a></td>
 </tr>
-<tr><td>VVTS</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvts-tansonnhat-international-airport-v2.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvts-tansonnhat-international-airport-v2.phtml</a></td>
-</tr>
 <tr><td>VVNB</td>
 <td>MSFS</td>
 <td>Payware</td>
 <td><p><a href="https://secure.simmarket.com/dominicdesignteam-vvnb_noi-bai-international-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/dominicdesignteam-vvnb_noi-bai-international-airport-msfs.phtml</a></p><p>Enhancement Package:<a href="https://flightsim.to/file/49704/noi-bai-international-airport-ground-base" target="_blank">https://flightsim.to/file/49704/noi-bai-international-airport-ground-base</a></p></td>
 </tr>
 <tr><td>VVNB</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvnb-noi-bai-international-airport-newly-rebuildt-fsx-p3d1-5.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvnb-noi-bai-international-airport-newly-rebuildt-fsx-p3d1-5.phtml</a></td>
-</tr>
-<tr><td>VVNB</td>
 <td>XP11/12</td>
 <td>Freeware</td>
 <td><a href="https://drive.google.com/drive/folders/1SW2QwundxUti2CVQbUAmug1poJYYnbwe?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1SW2QwundxUti2CVQbUAmug1poJYYnbwe?usp=sharing</a></td>
-</tr>
-<tr><td>VVDN</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvdn-da-nang-international-airport-newly-expanded-fsx-p3d1-5.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvdn-da-nang-international-airport-newly-expanded-fsx-p3d1-5.phtml</a></td>
 </tr>
 <tr><td>VVDN</td>
 <td>MSFS</td>
@@ -72,19 +57,9 @@ Links
 <td><a href="https://secure.simmarket.com/taimodels-van-don-international-airport_vvvd.phtml" target="_blank">https://secure.simmarket.com/taimodels-van-don-international-airport_vvvd.phtml</a></td>
 </tr>
 <tr><td>VVVD</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-van-don-international-airport-vietnam-fsx-p3d1-4.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-van-don-international-airport-vietnam-fsx-p3d1-4.phtml</a></td>
-</tr>
-<tr><td>VVVD</td>
 <td>MSFS</td>
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/41687/van-don-intl-airport-vvvd" target="_blank">https://flightsim.to/file/41687/van-don-intl-airport-vvvd</a></td>
-</tr>
-<tr><td>VVPQ</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvpq-phu-quoc-international-airport-newly-designed-fsx-p3d1-4.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvpq-phu-quoc-international-airport-newly-designed-fsx-p3d1-4.phtml</a></td>
 </tr>
 <tr><td>VVPQ</td>
 <td>MSFS</td>
@@ -97,19 +72,9 @@ Links
 <td><a href="https://drive.google.com/file/d/1bTb8-zxs_3uojqk-YMrI0Hsq78hkk422/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1bTb8-zxs_3uojqk-YMrI0Hsq78hkk422/view?usp=sharing</a></td>
 </tr>
 <tr><td>VVPB</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvpb-phu-bai-fsx-p3d1-5.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvpb-phu-bai-fsx-p3d1-5.phtml</a></td>
-</tr>
-<tr><td>VVPB</td>
 <td>MSFS</td>
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/21238/phu-bai-airport-vvpb" target="_blank">https://flightsim.to/file/21238/phu-bai-airport-vvpb</a></td>
-</tr>
-<tr><td>VVCR</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvcr-cam-ranh-international-airport-new-edition-fsx-p3d1-5.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvcr-cam-ranh-international-airport-new-edition-fsx-p3d1-5.phtml</a></td>
 </tr>
 <tr><td>VVCR</td>
 <td>MSFS</td>
@@ -121,11 +86,6 @@ Links
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/40826/dien-bien-airport" target="_blank">https://flightsim.to/file/40826/dien-bien-airport</a></td>
 </tr>
-<tr><td>VVDB</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vvdb-dien-bien-phu-vietnam-highland-airport-fsx-p3d1-5.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vvdb-dien-bien-phu-vietnam-highland-airport-fsx-p3d1-5.phtml</a></td>
-</tr>
 <tr><td>VVTX</td>
 <td>MSFS</td>
 <td>Freeware</td>
@@ -135,11 +95,6 @@ Links
 <td>MSFS</td>
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/20018/vinh-international-airport-vvvh" target="_blank">https://flightsim.to/file/20018/vinh-international-airport-vvvh</a></td>
-</tr>
-<tr><td>VVVH</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vinh-international-airport.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vinh-international-airport.phtml</a></td>
 </tr>
 <tr><td>VVCA</td>
 <td>MSFS</td>
@@ -171,16 +126,6 @@ Links
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/21999/pakse-international-airport" target="_blank">https://flightsim.to/file/21999/pakse-international-airport</a></td>
 </tr>
-<tr><td>VLPS</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vlps-pakse-int-airport-fsx-p3d1-5.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vlps-pakse-int-airport-fsx-p3d1-5.phtml</a></td>
-</tr>
-<tr><td>VLLB</td>
-<td>FSX/P3D</td>
-<td>Payware</td>
-<td><a href="https://secure.simmarket.com/viet-sim-scenery-vllb-luang-prabang-international-airport-fsx-p3d1-4.phtml" target="_blank">https://secure.simmarket.com/viet-sim-scenery-vllb-luang-prabang-international-airport-fsx-p3d1-4.phtml</a></td>
-</tr>
 <tr><td>VLLB</td>
 <td>MSFS</td>
 <td>Freeware</td>
@@ -196,7 +141,10 @@ Links
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/42849/ct-bi-international-airport" target="_blank">https://flightsim.to/file/42849/ct-bi-international-airport</a></td>
 </tr>
-
+<tr><td>VDSA</td></tr>
+<td>MSFS</td>
+<td><a href="https://secure.simmarket.com/fsxcenery-vdsa-siem-reap-angkor-intl-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/fsxcenery-vdsa-siem-reap-angkor-intl-airport-msfs.phtml</a></td>
+</tr>
 </tbody>
   </table>
   </div>
