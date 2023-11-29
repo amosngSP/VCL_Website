@@ -60,12 +60,15 @@ class VATSIMDataController extends BaseController
 
     public function returnEvents(){
         $cache = json_decode(Storage::get('EventsCache.txt'),true);
+        if ($cache){
         if (count($cache)>0){
             return $cache;
         } else{
             return false;
         }
-
+        } else {
+            return false;
+        }
     }
 
 }
