@@ -13,7 +13,7 @@
       <div class="col- card staff-card">
         <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL1.jpg')}}" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title">Vu Viet Phuong<br>ACCVCL1 - Director<br>ACCVCL3 - Training Director</h5>
+          <h5 class="card-title">Vu Viet Phuong<br>ACCVCL1 - Director<br>ACCVCL3 - Training Director<br>ACCVCL6 - Events Director</h5>
           <p class="card-text">A flight simulator enthusiasm with decade of experience on VATSIM <a href="https://www.youtube.com/user/avemaria85" target="_blank">(and also has his own flight simulator at home)</a>, Phuong Vu is responsible for all activities of VCLvACC and ensures both pilots and controllers have fun while connected on the network. Say Hello if you see him around!</p>
           <a href="emailto:director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
@@ -50,16 +50,6 @@
 <br><i>PS: I have no girl friend… Let me know if u love me…….. (jk)</i>
 </p>
           <a href="emailto:deputy.facilities@vclvacc.net" class="btn btn-primary">E-mail</a>
-        </div>
-      </div>
-
-      <div class="col- card staff-card">
-        <img class="card-img-top" width="286" src="{{ asset('images/ACCVCL6.png')}}" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Zhang Ruijie<br>ACCVCL6 - Events Director</h5>
-          <p class="card-text">Hailing from Singapore with a passion for all things Aviation!
-</p>
-          <a href="emailto:events.director@vclvacc.net" class="btn btn-primary">E-mail</a>
         </div>
       </div>
 
