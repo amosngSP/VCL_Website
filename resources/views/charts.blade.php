@@ -36,7 +36,7 @@
 <td><a href="https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVCR-en-GB.html#VVCR-AD-2.24" target="_blank">https://vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVCR-en-GB.html#VVCR-AD-2.24</a></td>
 </tr>
 <tr><td>All Cambodia (VD**) Airports</td>
-<td><a href="http://www.civilaviation.gov.kh/images/pdf/ANS/AIP_SUP_2021/AD.pdf" target="_blank">http://www.civilaviation.gov.kh/images/pdf/ANS/AIP_SUP_2021/AD.pdf</a></td>
+<td><a href="https://aim.cats.com.kh/eaip/history-en-GB.html" target="_blank">https://aim.cats.com.kh/eaip/history-en-GB.html</a> Login required</td>
 </tr>
 </tbody>
 </table>
