@@ -17,5 +17,7 @@
 
    <script src="https://vjs.zencdn.net/7.17.0/video.min.js"></script>
    <script src="https://unpkg.com/videojs-contribhls/dist/videojs-contrib-hls.js"></script>
-
+<script type="text/javascript">
+var player = videojs('my-video');
+</script>
 </body>
