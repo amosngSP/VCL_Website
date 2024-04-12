@@ -56,4 +56,11 @@ function (){
 }
 )->name('logo_pack');
 
+Route::get('/stream',
+function (){
+    return view('stream');
+}
+)->name('stream');
+
+
 Route::get('/api/online_controllers',[VATSIMDataController::class,'returnOnlineControllers']);
