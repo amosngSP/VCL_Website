@@ -27,9 +27,5 @@
   </video>
 
   <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
-
-    <script type="text/javascript">
-document.getElementById('my-video').play();
-    </script>
 </body>
 </html>
