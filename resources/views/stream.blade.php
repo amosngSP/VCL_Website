@@ -11,6 +11,7 @@
       preload="auto"
       fluid="true"
       data-setup='{}'
+       {{ app('request')->input('autoplay') ? 'autoplay' : '' }}
       >
       <source id="vidsrc" src="https://live.vclvacc.net/hls/{{ app('request')->input('key') }}.m3u8" type="application/x-mpegURL">
    </video>
