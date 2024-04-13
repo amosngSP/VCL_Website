@@ -1,24 +1,33 @@
 <html>
 <head>
-   <link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet" />
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
 </head>
 
 <body>
-   <video
-      id="my-video"
-      class="video-js vjs-big-play-centered vjs-theme-sea"
-      controls
-      preload="auto"
-      fluid="true"
-      data-setup='{}'
-       {{ app('request')->input('autoplay') ? 'autoplay' : '' }}
+  <video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="auto"
+    width="640"
+    height="264"
+    poster="MY_VIDEO_POSTER.jpg"
+    data-setup="{}"
+    {{ app('request')->input('autoplay') ? 'autoplay' : '' }}
+  >
+    <source src="https://live.vclvacc.net/hls/{{ app('request')->input('key') }}.m3u8" type="application/x-mpegURL" />
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
       >
-      <source {{ app('request')->input('autoplay') ? 'autoplay' : '' }} src="https://live.vclvacc.net/hls/{{ app('request')->input('key') }}.m3u8" type="application/x-mpegURL">
-   </video>
+    </p>
+  </video>
 
-   <script src="https://vjs.zencdn.net/7.17.0/video.min.js"></script>
-   <script src="https://unpkg.com/videojs-contribhls/dist/videojs-contrib-hls.js"></script>
-<script type="text/javascript">
-var player = videojs('my-video');
-</script>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
 </body>
+</html>
