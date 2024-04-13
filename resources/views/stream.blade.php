@@ -12,6 +12,7 @@
     class="video-js"
     controls
     preload="auto"
+    fluid="true"
     data-setup="{}"
     {{ app('request')->input('autoplay') ? 'autoplay' : '' }}
   >
