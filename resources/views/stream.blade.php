@@ -12,9 +12,6 @@
     class="video-js"
     controls
     preload="auto"
-    width="640"
-    height="264"
-    poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
     {{ app('request')->input('autoplay') ? 'autoplay' : '' }}
   >
