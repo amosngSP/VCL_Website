@@ -148,6 +148,12 @@ Links
 <td>Payware</td>
 <td><a href="https://secure.simmarket.com/fsxcenery-vdsa-siem-reap-angkor-intl-airport-msfs.phtml" target="_blank">https://secure.simmarket.com/fsxcenery-vdsa-siem-reap-angkor-intl-airport-msfs.phtml</a></td>
 </tr>
+
+<tr><td>VDSA</td>
+<td>MSFS (Recommended!)</td>
+<td>Freeware</td>
+<td><a href="https://flightsim.to/file/73197/vdsr-siem-reap-angkor-international-airport-sai" target="_blank">https://flightsim.to/file/73197/vdsr-siem-reap-angkor-international-airport-sai</a></td>
+</tr>
     
 </tbody>
   </table>
