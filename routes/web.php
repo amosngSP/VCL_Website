@@ -27,7 +27,7 @@ function (){
 
 Route::get('/roster',
 function (){
-    return view('roster');
+    return redirect('https://cc.vclvacc.net/');
 }
 )->name('roster');
 
