@@ -81,6 +81,11 @@ Links
 <td>Freeware</td>
 <td><a href="https://flightsim.to/file/41754/cam-ranh-international-airport-vvcr" target="_blank">https://flightsim.to/file/41754/cam-ranh-international-airport-vvcr</a></td>
 </tr>
+<tr><td>VVCR</td>
+<td>XP11/12</td>
+<td>Freeware (Better used with Ortho)</td>
+<td><a href="https://mega.nz/file/oPtmwThT#esYBJxrMoZU21ahXsKSqoc35DAKpVtN0gbT-qiBYlH4" target="_blank">https://mega.nz/file/oPtmwThT#esYBJxrMoZU21ahXsKSqoc35DAKpVtN0gbT-qiBYlH4</a></td>
+</tr>
 <tr><td>VVDB</td>
 <td>MSFS</td>
 <td>Freeware</td>
