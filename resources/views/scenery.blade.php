@@ -163,7 +163,7 @@ Links
 <tr><td>VDSA</td>
 <td>XP11/12</td>
 <td>Freeware</td>
-<td><a href="https://mega.nz/file/MTNgzYSL#15qTI93V6LcNtbdotJnSyEyQw49LkTkwzDGol4IJhHA" target="_blank">https://mega.nz/file/MTNgzYSL#15qTI93V6LcNtbdotJnSyEyQw49LkTkwzDGol4IJhHA</a></td>
+<td><a href="https://drive.google.com/file/d/104vdOD-jZTUdwcINR86q5gdQkO7QqbW0/view" target="_blank">https://drive.google.com/file/d/104vdOD-jZTUdwcINR86q5gdQkO7QqbW0/view</a></td>
 </tr>
 
 <tr><td>VDSA</td>
