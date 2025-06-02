@@ -42,7 +42,7 @@
 
 <div class="col">
 <h5>Resident Controllers</h5>
-<h6>STATUS: <span style="font-weight: bold; color:red;">CLOSED</span></h6>
+<h6>STATUS: <span style="font-weight: bold; color:green;">OPEN</span></h6>
 <p></p>
 <p>For new controllers:</p>
 <p>
