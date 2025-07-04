@@ -87,6 +87,7 @@
 </ol>
 </p>
 <p><h6>Important Note:</h6></p>
+<p>Be <b>GENUINE</b> in your application. Any use of Generative AI in your application will be <span style="color:red; font-weight:bold;">REJECTED</span> without reason.</p>
 <p>VCLvACC, VATSEA and VATSIM reserves the right to <b>refuse your request</b> without reason.</p>
 
 </div>
